@@ -1,11 +1,11 @@
 # OIBSIP
 
-  <img src="https://github.com/athar-ansari/OIBSIP/assets/118714083/ef99cd4c-f64e-4707-a78e-8dc7c0e1aac5" width="90%"><br>
+  <img src="https://github.com/athar-ansari/OIBSIP/assets/118714083/03de16be-0f79-4d5f-8f3f-a8ac3275d5f2" width="90%"><br>
 * * *
 ## INTERNSHIP TASK 3 : TO-DO LIST
 
 ### TASK DESCRIPTION :
-  <img src="https://github.com/athar-ansari/OIBSIP/assets/118714083/d1b12849-003e-4b5d-bc62-b6a1f4ad072f" width="90%"><br>
+  <img src="https://github.com/athar-ansari/OIBSIP/assets/118714083/6ab5eb6e-63a3-4144-8fac-88b858e253df" width="90%"><br>
 * * *
 
    ### FEATURES ✨
@@ -26,7 +26,7 @@
 
 ### TASK IMAGES 
 
-  <img src="https://github.com/athar-ansari/OIBSIP/assets/118714083/774a534b-4c0e-4629-b3f2-11eaa2aea26d" width="90%"><br>
+  <img src="https://github.com/athar-ansari/OIBSIP/assets/118714083/182c0a0a-996d-46e8-8dde-58f60dae4acf" width="90%"><br>
 * * *
 
 ## 🔗 To see the project

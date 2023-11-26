@@ -1,0 +1,24 @@
+@media (max-width: 998px) {
+  html {
+    font-size: 90%;
+  }
+}
+
+/* Media query for tablets */
+
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 85%;
+  }
+}
+
+/* Media query for mobile devices */
+
+@media screen and (max-width: 480px) {
+  html {
+    font-size: 85%;
+  }
+}
+
+
+                                                    /* THE END */

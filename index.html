@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-DoList</title>
+    <link rel="icon" type="image/x-icon" href="./images/to-do-list.png" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="responsive.css" />
+  </head>
+  <body>
+    <header>
+      <h1><span>To-Do</span> List</h1>
+      <form id="new-task-form">
+        <input
+          type="text"
+          name="new-task-input"
+          id="new-task-input"
+          placeholder="Write Your Task Here!"
+        />
+        <input type="submit" id="new-task-submit" value="Add Task" />
+      </form>
+    </header>
+    <main>
+      <section class="task-list">
+        <div class="tsk">
+          <div class="pic">
+            <h2>Tasks</h2>
+            <img src="./images/down-arrow.png" />
+          </div>
+          <button id="clear-all-button">CLEAR All TASKS</button>
+        </div>
+        <div id="tasks"></div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+
+                                              <!-- THE END -->

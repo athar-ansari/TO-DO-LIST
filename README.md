@@ -34,4 +34,4 @@
 
 ## 👓 Preview
 
-![LEVEL 2 TASK-3](   )
+![LEVEL 2 TASK-3](https://github.com/athar-ansari/OIBSIP/assets/118714083/0a94fbb0-6d96-4eb7-af94-fd1f4437b4a5)
